@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'elliptical';
-	src:url('fonts/elliptical.eot?16ruyj');
-	src:url('fonts/elliptical.eot?16ruyj#iefix') format('embedded-opentype'),
-		url('fonts/elliptical.ttf?16ruyj') format('truetype'),
-		url('fonts/elliptical.woff?16ruyj') format('woff'),
-		url('fonts/elliptical.svg?16ruyj#elliptical') format('svg');
+	src:url('fonts/elliptical.eot?2v4v40');
+	src:url('fonts/elliptical.eot?2v4v40#iefix') format('embedded-opentype'),
+		url('fonts/elliptical.ttf?2v4v40') format('truetype'),
+		url('fonts/elliptical.woff?2v4v40') format('woff'),
+		url('fonts/elliptical.svg?2v4v40#elliptical') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -224,7 +224,7 @@
 .icon-core-control-forward:before {
 	content: "\e078";
 }
-.icon-control-next:before {
+.icon-core-control-next:before {
 	content: "\e083";
 }
 .icon-core-control-pause:before {

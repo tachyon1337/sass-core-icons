@@ -1888,7 +1888,7 @@
 				"order": 132,
 				"prevSize": 32,
 				"code": 57475,
-				"name": "control-next"
+				"name": "core-control-next"
 			},
 			"setIdx": 2,
 			"setId": 14,
